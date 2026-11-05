@@ -1,0 +1,210 @@
+{
+  "core_comparisons": [
+    {
+      "check": "midfield_minutes",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 6.666668923571706e-07,
+      "result": "PASS"
+    },
+    {
+      "check": "forward_pass_10m_count",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "forward_carry_10m_count",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "final_third_pass_entry_count",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "final_third_carry_entry_count",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "interception_count",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "loose_ball_regain_count",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "forward_pass_10m_per90",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 6.8615513271197415e-09,
+      "result": "PASS"
+    },
+    {
+      "check": "forward_carry_10m_per90",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 2.3940547322354178e-09,
+      "result": "PASS"
+    },
+    {
+      "check": "final_third_pass_entries_per90",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 4.860266855644113e-09,
+      "result": "PASS"
+    },
+    {
+      "check": "final_third_carry_entries_per90",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 1.2312284525251016e-09,
+      "result": "PASS"
+    },
+    {
+      "check": "interceptions_per90",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 2.414205724221574e-09,
+      "result": "PASS"
+    },
+    {
+      "check": "loose_ball_regains_per90",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 4.603087688792584e-09,
+      "result": "PASS"
+    },
+    {
+      "check": "forward_pass_pctile",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 1.4210854715202004e-14,
+      "result": "PASS"
+    },
+    {
+      "check": "forward_carry_pctile",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 1.4210854715202004e-14,
+      "result": "PASS"
+    },
+    {
+      "check": "third_entry_pass_pctile",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 1.4210854715202004e-14,
+      "result": "PASS"
+    },
+    {
+      "check": "third_entry_carry_pctile",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 1.4210854715202004e-14,
+      "result": "PASS"
+    },
+    {
+      "check": "interception_pctile",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 1.4210854715202004e-14,
+      "result": "PASS"
+    },
+    {
+      "check": "loose_regain_pctile",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 1.4210854715202004e-14,
+      "result": "PASS"
+    },
+    {
+      "check": "balanced_score",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 9.805489753489383e-13,
+      "result": "PASS"
+    },
+    {
+      "check": "passing_focus_score",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 8.810729923425242e-13,
+      "result": "PASS"
+    },
+    {
+      "check": "carrying_focus_score",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 8.952838470577262e-13,
+      "result": "PASS"
+    },
+    {
+      "check": "balanced_rank",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "passing_focus_rank",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "carrying_focus_rank",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "best_scenario_rank",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "worst_scenario_rank",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 0.0,
+      "result": "PASS"
+    },
+    {
+      "check": "h1_midfield_minutes",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 6.66666721826914e-07,
+      "result": "PASS"
+    },
+    {
+      "check": "h2_midfield_minutes",
+      "players": 79,
+      "mismatches": 0,
+      "max_absolute_difference": 6.666667786703329e-07,
+      "result": "PASS"
+    }
+  ],
+  "profile_pass_keys": "PASS",
+  "profile_pass_rows": 71092,
+  "profile_summary_rows": 79
+}

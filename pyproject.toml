@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bundesliga-midfield-scouting"
+version = "1.0.0"
+description = "Historical Bundesliga midfielder screening with Python, SQL Server and Power BI"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.2,<3", "numpy>=1.26,<3"]
+
+[project.optional-dependencies]
+notebooks = ["jupyterlab>=4,<5", "ipykernel>=6,<8"]
+sql = ["pyodbc>=5,<6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,21 @@
+# Downloaded provider data and generated local checkpoints
+/data/raw/
+/data/processed/*
+!/data/processed/.gitkeep
+# Original working copies and superseded SQL exports
+/archive/
+# Python and notebooks
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+# Local settings and Power BI cache
+.env
+.vscode/
+.pbi/
+*.pbix.lock
+*.tmp
+.DS_Store
+Thumbs.db

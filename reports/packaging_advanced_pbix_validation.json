@@ -1,0 +1,50 @@
+{
+  "keys": 474,
+  "key_result": "PASS",
+  "checks": [
+    {
+      "check": "total_records",
+      "result": "PASS"
+    },
+    {
+      "check": "populated_records",
+      "result": "PASS"
+    },
+    {
+      "check": "unresolved_records",
+      "result": "PASS"
+    },
+    {
+      "check": "supplemented_records",
+      "result": "PASS"
+    },
+    {
+      "check": "data_status",
+      "result": "PASS"
+    },
+    {
+      "check": "available_value_sum",
+      "result": "PASS"
+    },
+    {
+      "check": "midfield_minutes",
+      "result": "PASS"
+    },
+    {
+      "check": "minutes_with_value",
+      "result": "PASS"
+    },
+    {
+      "check": "minutes_with_value_pct",
+      "result": "PASS"
+    },
+    {
+      "check": "observed_period_per90",
+      "result": "PASS"
+    },
+    {
+      "check": "season_per90",
+      "result": "PASS"
+    }
+  ]
+}

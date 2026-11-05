@@ -1,0 +1,79 @@
+original_zero_based_cell,notebook,section
+0,notebooks/exploration/01_source_selection.ipynb,Read an alternative provider catalogue
+1,notebooks/exploration/01_source_selection.ipynb,Filter the catalogue
+2,notebooks/exploration/01_source_selection.ipynb,Inspect available matches
+3,notebooks/exploration/01_source_selection.ipynb,Measure team coverage
+4,notebooks/exploration/01_source_selection.ipynb,Compare alternative seasons
+5,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect IMPECT iterations
+6,notebooks/exploration/02_impect_data_walkthrough.ipynb,Select Bundesliga 2023/24
+7,notebooks/exploration/02_impect_data_walkthrough.ipynb,Check the season scope
+8,notebooks/exploration/02_impect_data_walkthrough.ipynb,Read the team directory
+9,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect one match’s events
+10,notebooks/exploration/02_impect_data_walkthrough.ipynb,Flatten nested event JSON
+11,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect event and position labels
+12,notebooks/exploration/02_impect_data_walkthrough.ipynb,Explore midfield actions in one match
+13,notebooks/exploration/02_impect_data_walkthrough.ipynb,List column names
+14,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect sample records
+15,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect coordinates and outcomes
+16,notebooks/exploration/02_impect_data_walkthrough.ipynb,Read the player directory
+17,notebooks/exploration/02_impect_data_walkthrough.ipynb,Attach player names
+18,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect team columns
+19,notebooks/exploration/02_impect_data_walkthrough.ipynb,Count passing outcomes
+20,notebooks/exploration/02_impect_data_walkthrough.ipynb,Attach team names
+21,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect neutral and missing outcomes
+22,notebooks/exploration/02_impect_data_walkthrough.ipynb,Review the named sample
+23,notebooks/exploration/02_impect_data_walkthrough.ipynb,Inspect player-position aggregates
+24,notebooks/exploration/02_impect_data_walkthrough.ipynb,Extract playing time
+25,notebooks/exploration/02_impect_data_walkthrough.ipynb,Calculate a sample rate per 90
+26,notebooks/01_data_preparation_and_screening.ipynb,Set portable project paths
+27,notebooks/01_data_preparation_and_screening.ipynb,Test the cache on three matches
+28,notebooks/01_data_preparation_and_screening.ipynb,Cache the complete season
+29,notebooks/01_data_preparation_and_screening.ipynb,Validate each raw file
+30,notebooks/01_data_preparation_and_screening.ipynb,Build the season event table
+31,notebooks/01_data_preparation_and_screening.ipynb,Build the season playing-time table
+32,notebooks/01_data_preparation_and_screening.ipynb,Select eligible midfielders
+33,notebooks/01_data_preparation_and_screening.ipynb,Identify forward passes
+34,notebooks/01_data_preparation_and_screening.ipynb,Calculate forward-passing rates
+35,notebooks/01_data_preparation_and_screening.ipynb,Check coordinate coverage
+36,notebooks/01_data_preparation_and_screening.ipynb,Measure forward carrying
+37,notebooks/01_data_preparation_and_screening.ipynb,Measure final-third entries
+38,notebooks/01_data_preparation_and_screening.ipynb,Read the KPI dictionary
+39,notebooks/01_data_preparation_and_screening.ipynb,Find creation metrics
+40,notebooks/01_data_preparation_and_screening.ipynb,Inspect creation KPI availability
+41,notebooks/01_data_preparation_and_screening.ipynb,Measure creation record coverage
+42,notebooks/01_data_preparation_and_screening.ipynb,Avoid incomplete season totals
+43,notebooks/01_data_preparation_and_screening.ipynb,Measure coverage by minutes
+44,notebooks/01_data_preparation_and_screening.ipynb,Trace a missing value to source
+45,notebooks/01_data_preparation_and_screening.ipynb,Measure selected defensive activity
+46,notebooks/01_data_preparation_and_screening.ipynb,Convert rates into percentiles
+47,notebooks/01_data_preparation_and_screening.ipynb,Build three scoring scenarios
+48,notebooks/01_data_preparation_and_screening.ipynb,Add club and role context
+49,notebooks/01_data_preparation_and_screening.ipynb,Define the two season halves
+50,notebooks/01_data_preparation_and_screening.ipynb,Compare half-season exposure
+51,notebooks/01_data_preparation_and_screening.ipynb,Build the initial review list
+53,notebooks/02_sql_staging_import.ipynb,Check the SQL Server driver
+54,notebooks/02_sql_staging_import.ipynb,Connect using local configuration
+55,notebooks/02_sql_staging_import.ipynb,Prepare players and teams
+56,notebooks/02_sql_staging_import.ipynb,Load players and teams transactionally
+57,notebooks/02_sql_staging_import.ipynb,Prepare matches
+58,notebooks/02_sql_staging_import.ipynb,Load match records
+59,notebooks/02_sql_staging_import.ipynb,Prepare duration rows
+60,notebooks/02_sql_staging_import.ipynb,Load playing time
+61,notebooks/02_sql_staging_import.ipynb,Prepare event inserts
+62,notebooks/02_sql_staging_import.ipynb,Load events in batches
+63,notebooks/03_sql_result_validation.ipynb,Reconcile counts and rates
+64,notebooks/03_sql_result_validation.ipynb,Inspect the passing-rank tie
+65,notebooks/03_sql_result_validation.ipynb,"Reconcile percentiles, scores and ranks"
+66,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Review available season fields
+67,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Inspect supplied advanced values
+68,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Inspect the four pxT KPIs
+69,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Audit six advanced KPIs
+70,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Compare missing KPIs with recorded actions
+71,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Inspect unmatched position records
+72,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Identify missing contributions worth checking
+73,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Check event-level KPI exports
+74,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Keep value provenance and aggregate
+75,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Calculate coverage-aware advanced rates
+76,notebooks/extensions/01_advanced_kpi_analysis.ipynb,Prepare the advanced staging payload
+77,notebooks/extensions/02_advanced_kpi_import.ipynb,Load and verify the advanced payload
+78,notebooks/extensions/03_advanced_kpi_validation.ipynb,Reconcile advanced SQL summaries
